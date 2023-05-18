@@ -1,9 +1,7 @@
-package com.bolsadeideas.springboot.web.app.controlles;
+package com.bolsadeideas.springboot.web.app.controllers;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 
 import com.bolsadeideas.springboot.web.app.models.Usuario;
 import org.springframework.stereotype.Controller;
